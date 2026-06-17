@@ -1,4 +1,5 @@
 streamlit
-chromadb
+faiss-cpu
 transformers
-pandas
+sentence-transformers
+pypdf
